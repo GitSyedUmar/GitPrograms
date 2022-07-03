@@ -1,6 +1,6 @@
 - Hi, I’m @GitSyedUmar
 - I’m interested in Data Science.
-- I’m currently learning Android Studio.
+- I’ve learnt basics of Android Studio.
 - I'm moderately proficient in Java Programming Language.
 
 <!---
