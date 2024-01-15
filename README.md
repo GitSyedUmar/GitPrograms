@@ -9,7 +9,7 @@
   Work:
 - I am currently working as a Programmer Analyst Trainee(Data Engineer) at Cognizant specialised in Python, Spark, SQL and AWS Services like S3, Glue, DynamoDB, Athena and more.
 
-- Interests:
+  Interests:
 - I am open to work in Software Field as I have interest to work as a Backend Developer with small knowledge in Node.js and JavaScript but able to write queries using MySQL.
 
 
