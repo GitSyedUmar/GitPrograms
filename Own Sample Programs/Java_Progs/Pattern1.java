@@ -1,3 +1,10 @@
+// Printing the pattern
+
+//       1
+//      ##
+//     333
+//    ####
+//   55555
 
 
 import java.util.Scanner;
